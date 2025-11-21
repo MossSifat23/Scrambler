@@ -1,0 +1,9 @@
+C:/wordle/CMakeFiles/chris_code_for_wordle.dir
+C:/wordle/CMakeFiles/edit_cache.dir
+C:/wordle/CMakeFiles/rebuild_cache.dir
+C:/wordle/CMakeFiles/list_install_components.dir
+C:/wordle/CMakeFiles/install.dir
+C:/wordle/CMakeFiles/install/local.dir
+C:/wordle/CMakeFiles/install/strip.dir
+C:/wordle/CMakeFiles/chris_code_for_wordle_autogen_timestamp_deps.dir
+C:/wordle/CMakeFiles/chris_code_for_wordle_autogen.dir
